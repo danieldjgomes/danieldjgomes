@@ -11,7 +11,7 @@
 </p>
 
 ```java
-package com.gomes.daniel.domain.repository;
+package brasil.saopaulo.saopaulo.gomes;
 
 import coffeeMachine.*;
 
