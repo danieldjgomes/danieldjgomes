@@ -22,4 +22,4 @@
 
  
  ![Snake animation](https://github.com/danieldjgomes/danieldjgomes/blob/output/github-contribution-grid-snake.svg)
- <p/>
+ </p>
