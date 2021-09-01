@@ -20,8 +20,9 @@ public class Daniel {
     public static void main(String[] args) {
     
        while (true){
-           drinkCoffe();
-           searchBugs();
+            searchBugs();
+           complainAboutBugs();
+           
        }
     }
 }
