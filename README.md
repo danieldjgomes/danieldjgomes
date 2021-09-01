@@ -22,6 +22,7 @@ public class Daniel {
        while (true){
            searchBugs();
            complainAboutBugs();
+           drinkCoffee();
            
        }
     }
