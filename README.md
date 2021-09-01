@@ -9,11 +9,11 @@
 
 
 
-<p align="center">
+
 - 👩🏻‍💻 Desenvolvedor Back-end
 - 🎓 Cursando bacharel ciência da computação na UFABC
 - 📞 Formas de contatos [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danieldjgomes/)](https://www.linkedin.com/in/danieldjgomes/) [![Outlook Badge](https://img.shields.io/badge/-Outlook-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:daniel.djgomes@outlook.com)](mailto:daniel.djgomes@outlook.com)
- </p>
+
 
 
 
