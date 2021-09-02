@@ -30,14 +30,15 @@ public class Daniel {
 }
 ```
 
+## 🐔 Be Aware About the Chicken nuggets price
+Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' good chicken price changes dashboard.
+
 ## 🔍  Where to find me
 <p align="center">
 <a href="https://www.linkedin.com/in/danieldjgomes"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
 <a href="mailto:daniel.djgomes@outlook.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 </p>
-    
 
-## 🔍  Where to find me
  
  ![Snake animation](https://github.com/danieldjgomes/danieldjgomes/blob/output/github-contribution-grid-snake.svg)
  </p>
