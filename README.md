@@ -33,6 +33,8 @@ public class Daniel {
 ## 🐔 Be Aware About the Chicken nuggets price
 Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' good chicken price changes dashboard.
 
+
+
 ## 🔍  Where to find me
 <p align="center">
 <a href="https://www.linkedin.com/in/danieldjgomes"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px"/>
