@@ -30,7 +30,7 @@ public class Daniel {
 }
 ```
 
-## 🐔 Be Aware About the Chicken nuggets price
+## 🐔 Be Aware About the Chicken nuggets prices
 Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' good chicken price changes dashboard.
 
 
