@@ -35,8 +35,8 @@ Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' g
 
 ## 🔍  Where to find me
 <p align="center">
-<a href="https://www.linkedin.com/in/danieldjgomes"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-<a href="mailto:daniel.djgomes@outlook.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+<a href="https://www.linkedin.com/in/danieldjgomes"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px"/>
+<a href="mailto:daniel.djgomes@outlook.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50px"/>
 </p>
 
  
