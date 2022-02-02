@@ -29,10 +29,12 @@ public class Daniel {
     }
 }
 ```
+# Projects to pay attention 
+
 
 ## 🐔 Be Aware About the Chicken nuggets prices
 Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' good chicken price changes dashboard.
-
+<p align="center"><img src="https://user-images.githubusercontent.com/50127863/122002850-a9073400-cd88-11eb-8ed5-b05976f29512.gif" width="720"></p>
 
 
 ## 🔍  Where to find me
