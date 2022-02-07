@@ -32,16 +32,22 @@ public class Daniel {
 # Projects to pay attention 
 
 
+
 ## 🐔 Be Aware About the Chicken nuggets prices
 Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' good chicken price changes dashboard.
 <p align="center"><img src="https://user-images.githubusercontent.com/50127863/122002850-a9073400-cd88-11eb-8ed5-b05976f29512.gif" width="720"></p>
 
+
+# Articles made by me
+
+1. <a href="https://dev.to/danieldjgomes/injecao-de-dependencias-com-spring-ib"> Injeção de dependência com Spring </a>
 
 ## 🔍  Where to find me
 <p align="center">
 <a href="https://www.linkedin.com/in/danieldjgomes"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50px"/></a>
 <a href="mailto:daniel.djgomes@outlook.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50px"/></a>
 </p>
+
 
  
  ![Snake animation](https://github.com/danieldjgomes/danieldjgomes/blob/output/github-contribution-grid-snake.svg)
