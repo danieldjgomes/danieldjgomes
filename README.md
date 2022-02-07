@@ -30,15 +30,15 @@ public class Daniel {
 }
 ```
 # Projects to pay attention 
-
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/50127863/152729780-2650db4c-85d1-4ddc-90cf-dcbd70528a26.png" />
-  <img width="400" src="https://user-images.githubusercontent.com/50127863/152729780-2650db4c-85d1-4ddc-90cf-dcbd70528a26.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/50127863/152731241-c6dde7c3-213e-4a72-8d0c-c03b17c5f031.png" />
+  <img width="400" src="https://user-images.githubusercontent.com/50127863/152731241-c6dde7c3-213e-4a72-8d0c-c03b17c5f031.png" />
  <a href="https://github.com/danieldjgomes/Chikenitos-API">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=danieldjgomes&repo=Chikenitos-API&theme=tokyonight" />
      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=danieldjgomes&repo=Chikenitos-API&theme=tokyonight" />
 </a>
 </p>
+
 
 ## 🐔 Be Aware About the Chicken nuggets prices
 Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' good chicken price changes dashboard.
