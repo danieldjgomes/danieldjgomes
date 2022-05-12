@@ -32,7 +32,7 @@ public class Daniel {
 # Projects to pay attention 
 <p align="center">
 <a href="https://dashboard-ckn.vercel.app/"><img  width="400" height="225" src="https://user-images.githubusercontent.com/50127863/152731241-c6dde7c3-213e-4a72-8d0c-c03b17c5f031.png"></a>
-<a href="https://dashboard-ckn.vercel.app/"><img  width="400"  src="https://user-images.githubusercontent.com/50127863/167984137-5729f82e-7bfd-4199-8bda-d15060fac315.gif"></a>  
+<a href="https://ufabc-track.vercel.app/"><img  width="400"  src="https://user-images.githubusercontent.com/50127863/167984137-5729f82e-7bfd-4199-8bda-d15060fac315.gif"></a>  
 
 
  <a href="https://github.com/danieldjgomes/Chikenitos-API">
