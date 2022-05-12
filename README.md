@@ -21,9 +21,9 @@ public class Daniel {
     public static void main(String[] args) {
     
        while (true){
-           searchBugs();
-           complainAboutBugs();
-           drinkCoffee();
+           findBugs();
+           solveBugs();
+           drinkLemonTea();
            
        }
     }
@@ -50,7 +50,7 @@ Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' g
 <p align="center"><img src="https://user-images.githubusercontent.com/50127863/122002850-a9073400-cd88-11eb-8ed5-b05976f29512.gif" width="720"></p>
 
 
-# Articles made by me
+# Articles
 
 - <a href="https://dev.to/danieldjgomes/injecao-de-dependencias-com-spring-ib"> Injeção de dependência com Spring </a>
 
