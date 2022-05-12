@@ -31,14 +31,17 @@ public class Daniel {
 ```
 # Projects to pay attention 
 <p align="center">
-<a href="https://dashboard-ckn.vercel.app/"><img  width="400" src="https://user-images.githubusercontent.com/50127863/152731241-c6dde7c3-213e-4a72-8d0c-c03b17c5f031.png"></a>
-<a href="https://dashboard-ckn.vercel.app/"><img  width="400" src="https://user-images.githubusercontent.com/50127863/152731241-c6dde7c3-213e-4a72-8d0c-c03b17c5f031.png"></a>  
+<a href="https://dashboard-ckn.vercel.app/"><img  width="400" height="225" src="https://user-images.githubusercontent.com/50127863/152731241-c6dde7c3-213e-4a72-8d0c-c03b17c5f031.png"></a>
+<a href="https://dashboard-ckn.vercel.app/"><img  width="400"  src="https://user-images.githubusercontent.com/50127863/167984137-5729f82e-7bfd-4199-8bda-d15060fac315.gif"></a>  
 
 
  <a href="https://github.com/danieldjgomes/Chikenitos-API">
      <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=danieldjgomes&repo=Chikenitos-API&theme=tokyonight" />
-     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=danieldjgomes&repo=Chikenitos-API&theme=tokyonight" />
-</a>
+  </a>
+     <a href="https://github.com/danieldjgomes/Matricula-API">
+     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=danieldjgomes&repo=Matricula-API&theme=tokyonight" />
+          </a>
+
 </p>
 
 
@@ -49,7 +52,11 @@ Discover <a href="https://dashboard-ckn.vercel.app/">Chikenitos</a>, a lickin' g
 
 # Articles made by me
 
-1. <a href="https://dev.to/danieldjgomes/injecao-de-dependencias-com-spring-ib"> Injeção de dependência com Spring </a>
+- <a href="https://dev.to/danieldjgomes/injecao-de-dependencias-com-spring-ib"> Injeção de dependência com Spring </a>
+
+# Academic publications
+
+- <a href="https://github.com/danieldjgomes/matricula-api/blob/main/UFABC%20TRACK_%20Uma%20aplica%C3%A7%C3%A3o%20web%20para%20notificar%20disponibilidade%20de%20matr%C3%ADculas%20em%20disciplinas%20da%20UFABC.pdf"> UFABC Track: Uma aplicação web para notificar disponibilidade de matrículas em disciplinas da UFABC </a>
 
 ## 🔍  Where to find me
 <p align="center">
