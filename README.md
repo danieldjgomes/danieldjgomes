@@ -2,7 +2,7 @@
 
 - 🧭 Bachelor's degree in computer science at <a href="https://www.ufabc.edu.br/"> Federal University of ABC - UFABC</a> 
 
-- 👥 Java Developer team member at <a href="http://www.b3.com.br/pt_br/"> Bovespa Index</a> 
+- 👥 Java Developer team member at <a href="https://www.incomm.com/"> Incomm Payments US</a> 
 
 
 
